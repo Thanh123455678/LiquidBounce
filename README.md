@@ -7,6 +7,7 @@
 [Forum](https://forums.ccbluex.net) |
 [YouTube](https://youtube.com/CCBlueX) |
 [Twitter](https://twitter.com/CCBlueX)
+
 </div>
 
 LiquidBounce is a free and open-source mixin-based injection hacked client using the Fabric API for Minecraft.
@@ -26,13 +27,13 @@ license.
 For those who are unfamiliar with the license, here is a summary of its main points. This is by no means legal advice
 nor legally binding.
 
-*Actions that you are allowed to do:*
+_Actions that you are allowed to do:_
 
 - Use
 - Share
 - Modify
 
-*If you do decide to use ANY code from the source:*
+_If you do decide to use ANY code from the source:_
 
 - **You must disclose the source code of your modified work and the source code you took from this project. This means
   you are not allowed to use code from this project (even partially) in a closed-source (or even obfuscated)
