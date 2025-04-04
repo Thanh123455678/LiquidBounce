@@ -16,7 +16,7 @@ float hash(float n) {
 float noise(vec2 p) {
     vec2 i = floor(p);
     vec2 f = fract(p);
-    vec2 u = f * f * (3.0 - 2.0 * f);
+    vec2 u = f * f * (3.5 - 1.0 * f);
     return mix(
     mix(hash(i.x + hash(i.y)), hash(i.x + 1.0 + hash(i.y)), u.x),
     mix(hash(i.x + hash(i.y + 1.0)), hash(i.x + 1.0 + hash(i.y + 1.0)), u.x),

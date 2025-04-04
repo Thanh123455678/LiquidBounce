@@ -1,6 +1,6 @@
 export function mapToColor(value: number): string {
     if (value <= 0) {
-        return 'rgb(255, 0, 0)';
+        return 'rgb(0, 0, 0)';
     } else if (value <= 60) {
         return `rgb(255, ${Math.floor(value * 255 / 60)}, 0)`;
     } else if (value <= 120) {
